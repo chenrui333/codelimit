@@ -1,0 +1,21 @@
+pyproject.toml
+  s_cda539916c0d9f::t_b4bcf60f36ae8b 6
+uv.lock
+  s_cda539916c0d9f::t_5c090a663ca35a 3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "5636cacb1f355bd349663384a5e08ea3a48823cc",
+  "prompts": {},
+  "sessions": {
+    "s_cda539916c0d9f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a12375-1fdc-7011-a957-eb9ec749a317",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Rui Chen <rui@chenrui.dev>"
+    }
+  }
+}
